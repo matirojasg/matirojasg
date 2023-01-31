@@ -11,7 +11,7 @@
 
     
     
-Hi there 👋 My name is Matías Rojas, I live in San Fernando de Chile and I am currently working as a Natural Language Processing Engineer at [Center for Mathematical Modeling](https://www.cmm.uchile.cl/)).
+Hi there 👋 My name is Matías Rojas, I live in San Fernando (Chile) and I am currently working as a Natural Language Processing Engineer at [Center for Mathematical Modeling](https://www.cmm.uchile.cl/)).
 
 
 
