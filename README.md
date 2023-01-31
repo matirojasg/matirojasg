@@ -11,7 +11,10 @@
 
     
     
-Hi there 👋 My name is Matías Rojas, I live in San Fernando de Chile and I am currently working as a Natural Language Processing Engineer at [Center for Mathematical Modeling]([https://cenia.cl/](https://www.cmm.uchile.cl/)).
+Hi there 👋 My name is Matías Rojas, I live in San Fernando de Chile and I am currently working as a Natural Language Processing Engineer at [Center for Mathematical Modeling](https://www.cmm.uchile.cl/)).
+
+
+
 
 </div>
 
@@ -27,10 +30,10 @@ Hi there 👋 My name is Matías Rojas, I live in San Fernando de Chile and I am
     <a href="mailto:matirojasga@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="cv.pdf">
+    <a href="CV_Matias_Rojas.pdf">
         <img src="https://img.shields.io/badge/Resume-Blue?style=for-the-badge&logoColor=white"/>
     </a>
-    <a href="cv_es.pdf">
+    <a href="CV_Matias_Rojas.pdf">
         <img src="https://img.shields.io/badge/Resume (in spanish)-a?style=for-the-badge&logoColor=white"/>
     </a>
 </p>
